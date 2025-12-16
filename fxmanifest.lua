@@ -3,7 +3,7 @@ game 'gta5'
 
 author 'Denji'
 description 'Police Job Application'
-version '1.0.0'
+version '1.1'
 
 ui_page 'web/index.html'
 
