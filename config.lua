@@ -1,5 +1,10 @@
 Config = {}
 
+Config.Debug = true
+
+-- Time in seconds the player has to submit the form after opening it.
+Config.ApplicationTimeout = 600
+
 Config.Locale = {
     interact_prompt = "[E] - Open Police Application",
 
