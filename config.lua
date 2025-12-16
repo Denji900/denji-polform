@@ -1,6 +1,6 @@
 Config = {}
 
-Config.Debug = true
+Config.Debug = false
 
 -- Time in seconds the player has to submit the form after opening it.
 Config.ApplicationTimeout = 600
